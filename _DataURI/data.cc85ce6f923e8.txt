@@ -1,1 +1,0 @@
-chrome-extension://oiecklaabeielolbliiddlbokpfnmhba/assets/images/extension-tab.svg
